@@ -12,14 +12,11 @@ bibliotecas de Python:
 
 ## Pasos
 
-1.-Carga de datos: Los datos de ventas de productos son almacenados en listas.
+1. **Carga de datos**: Los datos de ventas de productos son almacenados en listas.
 
-Manipulación de datos: Utiliza NumPy para organizar los datos en arreglos y facilitar el cálculo y visualización.
+2. **Manipulación de datos**: Utiliza **NumPy** para organizar los datos en arreglos y facilitar el cálculo y visualización.
 
-Generación de gráficos:
-
-Se usan gráficos de líneas para comparar las ventas de productos más y menos vendidos.
-
-Se crean gráficos de barras agrupadas para ver las ventas de ambos productos por tienda.
-
-También se generan barras apiladas para representar las ventas combinadas.
+3. **Generación de gráficos**:
+   - Se usan **gráficos de líneas** para comparar las ventas de productos más y menos vendidos.
+   - Se crean **gráficos de barras agrupadas** para ver las ventas de ambos productos por tienda.
+   - También se generan **barras apiladas** para representar las ventas combinadas.
