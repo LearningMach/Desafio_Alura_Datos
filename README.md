@@ -12,7 +12,7 @@ bibliotecas de Python:
 
 ## Pasos
 
-Carga de datos: Los datos de ventas de productos son almacenados en listas.
+1.Carga de datos: Los datos de ventas de productos son almacenados en listas.
 
 Manipulación de datos: Utiliza NumPy para organizar los datos en arreglos y facilitar el cálculo y visualización.
 
